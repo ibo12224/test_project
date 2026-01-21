@@ -1,0 +1,15 @@
+**/data/
+**/image/
+llm/secret/
+*.csv
+*.zip
+*.jpg
+*.png
+*.pdf
+**/mysql_data/
+**/db_data/
+**/.data/
+
+*.log
+.DS_Store
+
